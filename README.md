@@ -3,6 +3,6 @@ It is a simple, pure HTML,CSS and JavaScript game, created by following this ama
 https://www.youtube.com/watch?v=jaVNP3nIAv0
 
 
-##published at git hub pages:
+## published at git hub pages:
 https://volodymyrbodnar.github.io/Rock_Paper_Scissors_JS_game/
 
